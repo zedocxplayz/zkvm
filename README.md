@@ -6,7 +6,7 @@
 
 A powerful web-based virtual machine management panel built with Node.js, Express, and QEMU/KVM. ZKVM Panel provides an intuitive interface for managing QEMU/KVM virtual machines with cloud-init support.
 
-![ZKVM Panel](soon)
+![ZKVM Panel](https://i.imgur.com/s2JuH0v.png)
 
 ## ✨ Features
 
@@ -52,4 +52,6 @@ A powerful web-based virtual machine management panel built with Node.js, Expres
 
 ### Installation
 
-```soon
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/zedocxplayz/zkvm/main/v1.sh)
+
