@@ -32,7 +32,7 @@ BIN_FILE="${INSTALL_DIR}/hkvm"
 LOG_FILE="/var/log/zkvm.log"
 SERVICE_FILE="/etc/systemd/system/${SERVICE_NAME}.service"
 
-DOWNLOAD_URL="link catbox "
+DOWNLOAD_URL="link"
 
 PANEL_PORT="8080"
 MIN_FILE_SIZE_MB="30"
