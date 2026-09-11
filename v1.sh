@@ -28,11 +28,11 @@ APP_NAME="ZKVM"
 SERVICE_NAME="zkvm"
 
 INSTALL_DIR="/opt/zkvm"
-BIN_FILE="${INSTALL_DIR}/hkvm"
+BIN_FILE="${INSTALL_DIR}/zkvm"
 LOG_FILE="/var/log/zkvm.log"
 SERVICE_FILE="/etc/systemd/system/${SERVICE_NAME}.service"
 
-DOWNLOAD_URL="link"
+DOWNLOAD_URL="https://files.catbox.moe/5r4ttm.zip"
 
 PANEL_PORT="8080"
 MIN_FILE_SIZE_MB="30"
